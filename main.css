@@ -1,0 +1,20 @@
+h1 {
+    color:green;
+}
+.element-style {
+    width: 300px;
+}
+.colleges li {
+    background-color: #c83;
+}
+
+.topics li {
+    list-style: none;
+       }
+
+figure {
+    margin: 20px;
+}
+figure {
+    display: inline-block;
+       }
